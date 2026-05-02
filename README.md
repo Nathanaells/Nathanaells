@@ -100,6 +100,3 @@
 
 ---
 
-<p align="center">
-  <em>⚡ Fun fact: I built a multiplayer reflex game in a hackathon — and it was a blast! 🎮</em>
-</p>
