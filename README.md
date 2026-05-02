@@ -12,7 +12,7 @@
 - 🚀 Passionate about building web applications — from responsive front-ends to robust back-ends
 - 🏆 Hackathon participant — built a real-time reflex game under pressure
 - 🤝 Experienced in pair programming and collaborative team projects
-- 🌱 Currently leveling up in **TypeScript**, **Vue.js**, and **AI integrations**
+- 🌱 Currently focusing on **TypeScript, Vue.js, backend architecture, and AI integration**
 - 🇮🇩 Based in Indonesia
 
 ---
@@ -68,16 +68,23 @@
 | [🌤️ WeatherApp](https://github.com/Nathanaells/WeatherApp) | Weather application with live API data | JavaScript |
 | [🍽️ Website_Restoran](https://github.com/Nathanaells/Website_Restoran) | Restaurant website | JavaScript |
 | [🤖 finalProject](https://github.com/Nathanaells/finalProject) | AI-powered final project | TypeScript |
-| [🌐 portofolio_website](https://github.com/Nathanaells/portofolio_website) | Personal portfolio website | JavaScript |
-| [⚡ hackathon-phase0](https://github.com/Nathanaells/hackathon-phase0) | Reflex game built during hackathon | JavaScript |
+| [🌐 Portfolio Website](https://github.com/Nathanaells/portofolio_website) | Personal portfolio website | JavaScript |
+| [⚡ Hackathon Project](https://github.com/Nathanaells/hackathon-phase0) | Reflex game built during hackathon | JavaScript |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-p7gqgl4xq-iitznathannns-projects.vercel.app/api?username=Nathanaells&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-p7gqgl4xq-iitznathannns-projects.vercel.app/api/top-langs/?username=Nathanaells&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Nathanaells&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📊 Profile Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathanaells&theme=tokyonight" />
 </p>
 
 ---
@@ -89,6 +96,8 @@
     <img src="https://img.shields.io/badge/GitHub-Nathanaells-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+---
 
 <p align="center">
   <em>⚡ Fun fact: I built a multiplayer reflex game in a hackathon — and it was a blast! 🎮</em>
