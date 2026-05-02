@@ -8,7 +8,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Graduate of the **Formulatrix Software Developer Training Program**, where I built real-world projects in C# and .NET
+- 🎓 Graduate of **Hacktiv8** Full-Stack JavaScript Bootcamp
+- 🏫 Currently in the **Formulatrix Software Developer Training Program** (bootcamp), building real-world projects in C# and .NET
 - 🚀 Passionate about building web applications — from responsive front-ends to robust back-ends
 - 🏆 Hackathon participant — built a real-time reflex game under pressure
 - 🤝 Experienced in pair programming and collaborative team projects
